@@ -12,6 +12,7 @@ int main(void){
             break;
         }
     }
+//teste
 
     if (primo == 1){
         printf("numero é primo");
