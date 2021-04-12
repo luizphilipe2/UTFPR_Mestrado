@@ -63,11 +63,11 @@ int main(){
    Aluno alunos[maxAlunos];
 
    do { 
-      printf("Quantidade de alunos cadastrados: %i \nNúmero máximo de alunos possíveis: %i \n", qtdAlunosCadastrados, maxAlunos);
+      printf("Quantidade de alunos cadastrados: %i \nNúmero máximo de alunos possí­veis: %i \n", qtdAlunosCadastrados, maxAlunos);
 
       printf("\n \nInsira uma opção: \n");
       printf("1 - Inserir um novo aluno: RA, nome, vetor com 3 notas e data de nascimento (use aninhamento de estruturas); \n");
-      printf("2 - Listar os nomes e as médias das notas de todos os alunos; \n");
+      printf("2 - Listar os nomes e as mÃ©dias das notas de todos os alunos; \n");
       printf("3 - Listar os nomes dos alunos que nasceram depois de um certo ano. \n");
       printf("Para sair, digite qualquer outro número\n");
       scanf(" %i", &opcao);
