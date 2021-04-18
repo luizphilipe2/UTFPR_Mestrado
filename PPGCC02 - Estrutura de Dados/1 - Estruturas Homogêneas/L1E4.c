@@ -1,3 +1,16 @@
+/*
+4 - [L1E4] Faça um programa que contenha um menu com as seguintes opções: 
+A - Ler uma string S1 (tamanho máximo 20 caracteres); 
+B - Imprimir o tamanho da string S1; 
+C - Comparar a string S1 com uma nova string S2 fornecida pelo usuário e imprimir o resultado da comparação; 
+D - Concatenar a string S1 com uma nova string S2 e imprimir na tela o resultado da concatenação;
+E - Imprimir a string S1 de forma reversa; 
+F - Contar quantas vezes um dado caractere aparece na string S1. Esse caractere desse ser informado pelo usuário; 
+G - Substituir a primeira ocorrência do caractere C1 da string S1 pelo caractere C2. Os caracteres C1 e C2 serão digitados pelo usuário; 
+H - Verificar se uma string S2 e substring de S1. A string S2 deve ser informada pelo usuário; 
+I - Retornar uma substring da string S1. Para isso o usuário deve informar a partir de qual posição deve ser criada a substring e qual é o tamanho da substring.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <string.h>

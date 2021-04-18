@@ -1,3 +1,11 @@
+/*
+3 - [L1E3] Criar um programa que carregue uma matriz 12 × 4 com os valores das vendas de uma loja, em que cada linha represente um mês do ano, 
+e cada coluna, uma semana do mês. Para fins de simplificação considere que cada mês possui somente 4 semanas. Calcule e imprima: 
+Total vendido em cada mês do ano; 
+Total vendido em cada semana durante todo o ano; 
+Total vendido no ano.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 

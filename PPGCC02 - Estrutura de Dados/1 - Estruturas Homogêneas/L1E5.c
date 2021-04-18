@@ -1,3 +1,11 @@
+/*
+5 - [L1E5] Faça um programa que:
+Leia  um  inteiro n(2 ? n ? 3),  crie e  leia  uma  estrutura  que  é  uma  matriz quadrada  de  ordem n,  contendo  sua dimensão e seus elementos. 
+Crie a matriz adjunta da matriz lida. A matriz adjunta é composta pelos cofatores da matriz geradora. 
+O cofator do elemento Aij é o determinante da matriz que se obtém eliminando-se as linhas i e j da matriz original.  
+Exemplo de cálculo do cofator do elemento 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include <string.h>
