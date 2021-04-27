@@ -48,9 +48,8 @@ void pilha_inverter(Pilha *p){
 }
 
 bool pilha_empilharTodos(Pilha *p, TipoElemento *vetor, int tamVetor){
-    for (int i = 0; i < tamVetor; i++){
+    for (int i = 0; i < tamVetor; i++)
         pilha_empilhar(p, vetor[i]);
-    }
 }
 
 int main(){
