@@ -1,0 +1,1274 @@
+Document Title,Abstract,Year,PDF Link,label
+Conversational Bot for Newcomers Onboarding to Open Source Projects,"This paper targets the problems newcomers face when onboarding to open source projects
+and the low retention rate of newcomers. Open source software projects are becoming
+increasingly more popular. Many major companies have started building open source
+software. Unfortunately, many newcomers only commit once to an open source project
+before moving on to another project. Even worse, many novices struggle with joining
+open source communities and end up leaving quickly, sometimes before their first successful
+contribution. In this paper, we propose a conversational bot that would recommend
+projects to newcomers and assist in the onboarding to the open source community. The
+bot would be able to provide helpful resources, such as Stack Overflow related content.
+It would also be able to recommend human mentors. We believe that this bot would improve
+newcomers' experience by providing support not only during their first contribution,
+but by acting as an agent to engage them to the project.",2020,https://dx.doi.org/10.1145/3387940.3391534,no
+Understanding User-Bot Interactions for Small-Scale Automation in Open-Source Development,"Small-scale automation tools, or ""bots,"" have been widely deployed in open-source
+software development to support manual project maintenance tasks. Though interactions
+between these bots and human developers can have significant effects on user experience,
+previous research has instead mostly focused on project outcomes. We reviewed existing
+small-scale bots in wide use on GitHub. After an in-depth qualitative and quantitative
+evaluation, we compiled several important design principles for human-bot interaction
+in this context. Following the requirements, we further propose a workflow to support
+bot developers.",2020,https://dx.doi.org/10.1145/3334480.3382998,no
+Onboarding Bot for Newcomers to Software Engineering,"Software development teams dedicate considerable resources to training newcomers.
+Newcomers are new developers to a software project. The software onboarding process
+is more complicated than onboarding into other organizations. It is much more challenging
+and time-consuming. The role of a mentor in onboarding newcomers in software engineering
+is well understood. However, the disruptions to the work of an experienced developer
+can reduce the quality of their work and job satisfaction. We propose a conversational
+bot that can help onboard newcomers to a software project instead of an experienced
+programmer. The bot will act as a mentor for the newcomer, thus putting less stress
+on experienced programmers. The bot will also be able to scan outside sources, such
+as stack overflow, for solutions to issues a newcomer may face. The newcomer will
+be able to interact with the bot using natural language. We will use this bot to assess
+improvements to code quality in future studies.",2020,https://dx.doi.org/10.1145/3379177.3388901,no
+Accelerating Software Engineering Research Adoption with Analysis Bots,"An important part of software engineering (SE) research is to develop new analysis
+techniques and to integrate these techniques into software development practice. However,
+since access to developers is non-trivial and research tool adoption is slow, new
+analyses are typically evaluated as follows: a prototype tool that embeds the analysis
+is implemented, a set of projects is identified, their revisions are selected, and
+the tool is run in a controlled environment, rarely involving the developers of the
+software. As a result, research artifacts are brittle and it is unclear if an analysis
+tool would actually be adopted.In this paper, we envision harnessing the rich interfaces
+provided by popular social coding platforms for automated deployment and evaluation
+of SE research analysis. We propose that SE analyses can be deployed as analysis bots.
+We focus on two specific benefits of such an approach: (1) analysis bots can help
+evaluate analysis techniques in a less controlled, and more realistic context, and
+(2) analysis bots provide an interface for developers to ""subscribe"" to new research
+techniques without needing to trust the implementation, the developer of the new tool,
+or to install the analysis tool locally. We outline basic requirements for an analysis
+bots platform, and present research challenges that would need to be resolved for
+bots to flourish.",2017,https://dx.doi.org/10.1109/ICSE-NIER.2017.17,no
+BotSE '19: Proceedings of the 1st International Workshop on Bots in Software Engineering,"Welcome to the first International Workshop on Bots in Software Engineering (BotSE),
+held in conjunction with the 41st ACM/IEEE International Conference on Software Engineering
+(ICSE). BotSE aims to establish itself as an annual venue to gather researchers, practitioners
+and software community can discuss the use of bots in software engineering and its
+related issues. Bots (short for software robots) are software applications that perform
+often repetitive or simple tasks. In particular, social and chat bots interacting
+with humans are a recent research topic. Similarly, bots can be used to automate many
+tasks that are performed by software practitioners and teams in their day-to-day work.
+Recent work argue that bots can save developers' time and significantly increase productivity.
+Therefore, the goal of this one-day workshop is to bring together software engineering
+researchers and practitioners to discuss the opportunities and challenges of bots
+in software engineering.",2019,,no
+Summary of the 2nd International Workshop on Bots in Software Engineering (BotSE 2020),"Bots automate many tasks in software engineering projects often in the form of chatbots.
+Bots have been proposed, for example, for testing, maintenance, or automating bug
+fixes. Following the success of the first BotSE workshop, we organized this second
+edition collocated with ICSE 2020 to bring together the research community that investigates
+bots for software engineering. Specifically, the workshop's goal was to share experiences
+and challenges, discuss new types of bots, and map out future directions. The workshop
+program comprised the presentation of 8 papers and 2 keynotes, followed by extensive
+discussion. Overall, the community matured by discussing how to design, build, and
+evaluate bots. The community aims to organise a 3rd edition of the workshop. Website:
+http://botse.org/",2021,https://dx.doi.org/10.1145/3437479.3437484,no
+Xface: Open Source Toolkit for Creating 3d Faces of an Embodied Conversational Agent,"Xface, the new version of our open source, platform independent toolkit for developing
+3D embodied conversational agents is presented. The toolkit currently incorporates
+four pieces of software. The core Xface library is for developers who want to embed
+3D facial animation to their applications. XfaceEd editor provides an easy to use
+interface to generate MPEG-4 ready meshes from static 3D models. XfacePlayer is a
+sample application that demonstrates the toolkit in action and XfaceClient is used
+as the communication controller over network.",2005,https://dx.doi.org/10.1007/11536482_25,no
+The Draw-Bot: A Project for Teaching Software Engineering,"The authors present a course project which was successfully used to teach software
+design principles to third year computer engineering students. The goal of the project
+is to program a robot to trace a shortest path through a maze. The students, organized
+in teams of five, have to follow the classical steps of software development and prepare
+interface, design and testing documents. Having a project that requires controlling
+a device to complete a clear task generates enthusiasm in the students and helps them
+to understand the principles taught in the course.",1998,,no
+Building an Enterprise Chatbot: Work with Protected Enterprise Data Using Open Source Frameworks,"Explore the adoption of chatbots in business by focusing on the design, deployment,
+and continuous improvement of chatbots in a business, with a single use-case from
+the banking and insurance sector. This book starts by identifying the business processes
+in the banking and insurance industry. This involves data collection from sources
+such as conversations from customer service centers, online chats, emails, and other
+NLP sources. You'll then design the solution architecture of the chatbot. Once the
+architecture is framed, the author goes on to explain natural language understanding
+(NLU), natural language processing (NLP), and natural language generation (NLG) with
+examples. In the next sections, you'll design and implement the backend framework
+of a typical chatbot from scratch. You will also explore some popular open-source
+chatbot frameworks such as Dialogflow and LUIS. The authors then explain how you can
+integrate various third-party services and enterprise databases with the custom chatbot
+framework. In the final section, you'll discuss how to deploy the custom chatbot framework
+on the AWS cloud. By the end of Building an Enterprise Chatbot, you will be able to
+design and develop an enterprise-ready conversational chatbot using an open source
+development platform to serve the end user. What You Will Learn Identify business
+processes where chatbots could be used Focus on building a chatbot for one industry
+and one use-case rather than building a ubiquitous and generic chatbot Design the
+solution architecture for a chatbot Integrate chatbots with internal data sources
+using APIs Discover the differences between natural language understanding (NLU),
+natural language processing (NLP), and natural language generation (NLG) Work with
+deployment and continuous improvement through representational learning Who This Book
+Is For Data scientists and enterprise architects who are currently looking to deploy
+chatbot solutions to their business.",2019,,no
+The Power of Bots: Characterizing and Understanding Bots in OSS Projects,"Leveraging the pull request model of social coding platforms, Open Source Software
+(OSS) integrators review developers' contributions, checking aspects like license,
+code quality, and testability. Some projects use bots to automate predefined, sometimes
+repetitive tasks, thereby assisting integrators' and contributors' work. Our research
+investigates the usage and impact of such bots. We sampled 351 popular projects from
+GitHub and found that 93 (26%) use bots. We classified the bots, collected metrics
+from before and after bot adoption, and surveyed 228 developers and integrators. Our
+results indicate that bots perform numerous tasks. Although integrators reported that
+bots are useful for maintenance tasks, we did not find a consistent, statistically
+significant difference between before and after bot adoption across the analyzed projects
+in terms of number of comments, commits, changed files, and time to close pull requests.
+Our survey respondents deem the current bots as not smart enough and provided insights
+into the bots' relevance for specific tasks, challenges, and potential new features.
+We discuss some of the raised suggestions and challenges in light of the literature
+in order to help GitHub bot designers reuse and test ideas and technologies already
+investigated in other contexts.",2018,https://dx.doi.org/10.1145/3274451,no
+What to Expect from Code Review Bots on GitHub? A Survey with OSS Maintainers,"Software bots are used by Open Source Software (OSS) projects to streamline the code
+review process. Interfacing between developers and automated services, code review
+bots report continuous integration failures, code quality checks, and code coverage.
+However, the impact of such bots on maintenance tasks is still neglected. In this
+paper, we study how project maintainers experience code review bots. We surveyed 127
+maintainers and asked about their expectations and perception of changes incurred
+by code review bots. Our findings reveal that the most frequent expectations include
+enhancing the feedback bots provide to developers, reducing the maintenance burden
+for developers, and enforcing code coverage. While maintainers report that bots satisfied
+their expectations, they also perceived unexpected effects, such as communication
+noise and newcomers' dropout. Based on these results, we provide a series of implications
+for bot developers, as well as insights for future research.",2020,https://dx.doi.org/10.1145/3422392.3422459,no
+Make: Arduino Bots and Gadgets Six Embedded Projects with Open Source Hardware and Software (Learning by Discovery),"Want to build your own robots, turn your ideas into prototypes, control devices with
+a computer, or make your own cell phone applications? It's a snap with this book and
+the Arduino open source electronic prototyping platform. Get started with six fun
+projects and achieve impressive results quickly. Gain the know-how and experience
+to invent your own cool gadgets. With Arduino, building your own embedded gadgets
+is easy, even for beginners. Embedded systems are everywhere--inside cars, children's
+toys, and mobile phones. This book will teach you the basics of embedded systems and
+help you build your first gadget in just a few days. Each learn-as-you-build project
+that follows will add to your knowledge and skills. Experiment with Arduino, the popular
+microcontroller board Build robots and electronic projects with easy-to-follow instructions
+Turn your ideas into working physical prototypes Use Android phones as remote controls
+in your projects Work with an uncomplicated programming language created for artists,
+designers, and hobbyists Get everyone involved, with projects that even beginners
+can build.",2011,,no
+FLOSS FAQ Chatbot Project Reuse: How to Allow Nonexperts to Develop a Chatbot,"FAQ chatbots possess the capability to provide answers to frequently asked questions
+of a particular service, platform, or system. Currently, FAQ chatbot is the most popular
+domain of use of dialog assistants. However, developing a chatbot project requires
+a full-stack team formed by numerous specialists, such as dialog designer, data scientist,
+software engineer, DevOps, business strategist and experts from the domain, which
+can be both time and resources consuming. Language processing can be particularly
+challenging in languages other than English due to the scarcity of training datasets.Most
+of the requirements of FAQ chatbots are similar, domain-specific, and projects could
+profit from Open Source Software (OSS) reuse. In this paper, we examine how OSS FAQ
+chatbot projects can benefit from reuse at the project level (black-box reuse). We
+present an experience report of a FLOSS FAQ chatbot project developed in Portuguese
+to an e-government service in Brazil. It comprises of the chatbot distribution service,
+as well as for analytics tool integrated and deployed on-premises. We identified assets
+that could be reused as a black-box and the assets that should be customized for a
+particular application. We categorized these assets in architecture, corpus, dialog
+flows, machine learning models, and documentation. This paper discusses how automation,
+pre-configuration, and templates can aid newcomers to develop chatbots in Portuguese
+without the need for specialized skills required from tools in chatbot architecture.
+Our main contribution is to highlight the issues non-English FAQ chatbots projects
+will likely face and the assets that can be reused. It allows non-chatbot experts
+to develop a quality-assured OSS FAQ chatbot in a shorter project cycle.",2019,https://dx.doi.org/10.1145/3306446.3340823,no
+Use Bots to Improve GitHub Pull-Request Feedback,"Rising enrollments make it difficult for instructors and teaching assistants to give
+adequate feedback on each student's work. In our software engineering course, we have
+50-120 students each semester. Our course projects require students to submit GitHub
+pull requests as deliverables for their open-source software (OSS) projects. We have
+set up a static code analyzer and a continuous integration service on GitHub to help
+students check code style and functionality. However, these tools cannot enforce system-specific
+customized guidelines and do not explicitly display detailed information. In this
+study, we discuss how we bypass the limitations of existing tools by implementing
+three Internet bots. The Expertiza Bot can help detect violations of more than 35
+system-specific guidelines. The Travis CI Bot can explicitly display instant test
+execution results on the GitHub pull-request page. The Code Climate Bot can insert
+pull-request comments to remind students to fix issues detected by the static code
+analyzer. These bots are either open source or free for OSS projects, and can be easily
+integrated with GitHub repositories. Our survey results show that more than 70% of
+students think the advice given by the bots is useful. We tallied the amount of feedback
+given by the bots and the teaching staff for each GitHub pull request. Results show
+that bots can provide significantly more feedback (six times more on average) than
+teaching staff. Bots can also offer more timely feedback than teaching staff and help
+student contributions avoid more than 33% system-specific guideline violations.",2019,https://dx.doi.org/10.1145/3287324.3293787,no
+An Empirical Study of Bots in Software Development: Characteristics and Challenges from a Practitioner’s Perspective,"Software engineering bots – automated tools that handle tedious tasks – are increasingly
+used by industrial and open source projects to improve developer productivity. Current
+research in this area is held back by a lack of consensus of what software engineering
+bots (DevBots) actually are, what characteristics distinguish them from other tools,
+and what benefits and challenges are associated with DevBot usage. In this paper we
+report on a mixed-method empirical study of DevBot usage in industrial practice. We
+report on findings from interviewing 21 and surveying a total of 111 developers. We
+identify three different personas among DevBot users (focusing on autonomy, chat interfaces,
+and “smartness”), each with different definitions of what a DevBot is, why developers
+use them, and what they struggle with.We conclude that future DevBot research should
+situate their work within our framework, to clearly identify what type of bot the
+work targets, and what advantages practitioners can expect. Further, we find that
+there currently is a lack of general purpose “smart” bots that go beyond simple automation
+tools or chat interfaces. This is problematic, as we have seen that such bots, if
+available, can have a transformative effect on the projects that use them.",2020,https://dx.doi.org/10.1145/3368089.3409680,no
+Repairnator Patches Programs Automatically,"Repairnator is a bot. It constantly monitors software bugs discovered during continuous
+integration of open-source software and tries to fix them automatically. If it succeeds
+in synthesizing a valid patch, Repairnator proposes the patch to the human developers,
+disguised under a fake human identity. To date, Repairnator has been able to produce
+patches that were accepted by the human developers and permanently merged into the
+code base. This is a milestone for human-competitiveness in software engineering research
+on automatic program repair.",2019,https://dx.doi.org/10.1145/3349589,no
+Estimation of FAPs and Intensities of AUs Based on Real-Time Face Tracking,"Imitation of natural facial behavior in real-time is still challenging when it comes
+to natural behavior such as laughter and nonverbal expressions. This paper explains
+our ongoing work on methodologies and tools for estimating Facial Animation Parameters
+(FAPs) and intensities of Action Units (AUs) in order to imitate lifelike facial expressions
+with an MPEG-4 complaint Embodied Conversational Agent (ECA) -- The GRETA agent (Bevacqua
+et al. 2007). Firstly, we investigate available open source tools for better facial
+landmark localization. Secondly, FAPs and intensities of AUs are estimated based on
+facial landmarks computed with an open source face tracker tool. Finally, the paper
+discusses our ongoing work to investigate better re-synthesis technology among FAP-based
+and AU-based synthesis technologies using perceptual studies on: (i) naturalness in
+synthesized facial expressions; (ii) similarity perceived by the subjects when compared
+to original user's behavior.",2012,https://dx.doi.org/10.1145/2491599.2491612,no
+Improving Feedback on GitHub Pull Requests: A Bots Approach,"Rising enrollments make it difficult for instructors and teaching assistants to give
+adequate feedback on each student’s work. Our course projects require students
+to submit GitHub pull requests as deliverables for their open-source software (OSS)
+projects. We have set up a static code analyzer and a continuous integration service
+on GitHub to help students check different aspects of the code. However, these tools
+have some limitations. In this paper, we discuss how we bypass the limitations of
+existing tools by implementing three Internet bots. These bots are either open source
+or free for OSS projects and can be easily integrated with any GitHub repositories.
+One-hundred one Computer Science and Computer Engineering masters students participated
+in our study. The survey results showed that more than 84% of students thought
+bots can help them to contribute code with better quality. We analyzed 396 pull requests.
+Results revealed that bots can provide more timely feedback than teaching staff. The
+Danger Bot is associated with a significant reduction system-specific guideline violations
+(by 39%), and the Code Climate Bot is associated with a significant 60%
+decrease of code smells in student contributions. However, we found that the Travis
+CI Bot did not help student contributions pass automated tests.",2019,https://dx.doi.org/10.1109/FIE43999.2019.9028685,no
+Sorry to Bother You Again: Developer Recommendation Choice Architectures for Designing Effective Bots,"Software robots, or bots, are useful for automating a wide variety of programming
+and software development tasks. Despite the advantages of using bots throughout the
+software engineering process, research shows that developers often face challenges
+interacting with these systems. To improve automated developer recommendations from
+bots, this work introduces developer recommendation choice architectures. Choice architecture
+is a behavioral science concept that suggests the presentation of options impacts
+the decisions humans make. To evaluate the impact of framing recommendations for software
+engineers, we examine the impact of one choice architecture, actionability, for improving
+the design of bot recommendations. We present the results of a preliminary study evaluating
+this choice architecture in a bot and provide implications for integrating choice
+architecture into the design of future software engineering bots.",2020,https://dx.doi.org/10.1145/3387940.3391506,no
+The Inconvenient Side of Software Bots on Pull Requests,"Software bots are applications that integrate their work with humans' tasks, serving
+as conduits between users and other tools. Due to their ability to automate tasks,
+bots have been widely adopted by Open Source Software (OSS) projects hosted on GitHub.
+Commonly, OSS projects use bots to automate a variety of routine tasks to save time
+from maintainers and contributors. Although bots can be useful for supporting maintainers'
+work, sometimes their comments are seen as spams, and are quickly ignored by contributors.
+In fact, the way that these bots interact on pull requests can be disruptive and perceived
+as unwelcoming. In this paper, we propose the concept of a meta-bot to deal with current
+problems on the human-bot interaction on pull requests. Besides providing additional
+value to this interaction, meta-bot will reduce interruptions and help maintainers
+and contributors stay aware of important information.",2020,https://dx.doi.org/10.1145/3387940.3391504,no
+A Software Engineering Approach Combining Rational and Conversational Agents for the Design of Assistance Applications,"A Conversational Agent can be useful for providing assistance to na\""{\i}ve users on how
+to use a graphical interface. Such an assistant requires three features: understanding
+users' requests, reasoning, and intuitive output. In this paper we introduce the DAFT-LEA
+architecture for enabling assistant agents to reply to questions asked by naive users
+about the structure and functioning of graphical interfaces. This architecture integrates
+via a unified software engineering approach a linguistic parser for the understanding
+the user's requests, a rational agent for the reasoning about the graphical application,
+and a 2D cartoon like agent for the multimodal output. We describe how it has been
+applied to three different assistance application contexts, and how it was incrementally
+defined via the collection of a corpus of users' requests for assistance. Such an
+approach can be useful for the design of other assistance applications since it enables
+a clear separation between the original graphical application, its abstract DAFT model
+and the linguistic processing of users' requests.",2005,https://doi.org/10.1007/11550617_10,no
+A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents,"Embodied conversational agents (ECAs) benefit from non-verbal behavior for natural
+and efficient interaction with users. Gesticulation -- hand and arm movements accompanying
+speech -- is an essential part of non-verbal behavior. Gesture generation models have
+been developed for several decades: starting with rule-based and ending with mainly
+data-driven methods. To date, recent end-to-end gesture generation methods have not
+been evaluated in a real-time interaction with users. We present a proof-of-concept
+framework, which is intended to facilitate evaluation of modern gesture generation
+models in interaction.We demonstrate an extensible open-source framework that contains
+three components: 1) a 3D interactive agent; 2) a chatbot backend; 3) a gesticulating
+system. Each component can be replaced, making the proposed framework applicable for
+investigating the effect of different gesturing models in real-time interactions with
+different communication modalities, chatbot backends, or different agent appearances.
+The code and video are available at the project page: https://nagyrajmund.github.io/project/gesturebot.",2021,,no
+Enhancing Developers’ Support on Pull Requests Activities with Software Bots,"Software bots are employed to support developers' activities, serving as conduits
+between developers and other tools. Due to their focus on task automation, bots have
+become particularly relevant for Open Source Software (OSS) projects hosted on GitHub.
+While bots are adopted to save development cost, time, and effort, the bots' presence
+can be disruptive to the community. My research goal is two-fold: (i) identify problems
+caused by bots that interact in pull requests, and (ii) help bot designers enhance
+existing bots. Toward this end, we are interviewing maintainers, contributors, and
+bot developers to understand the problems in the human-bot interaction and how they
+affect the collaboration in a project. Afterward, we will employ Design Fiction to
+capture the developers' vision of bots' capabilities, in order to define guidelines
+for the design of bots on social coding platforms, and derive requirements for a meta-bot
+to deal with the problems. This work contributes more broadly to the design and use
+of software bots to enhance developers' collaboration and interaction.",2020,https://dx.doi.org/10.1145/3368089.3418539,no
+How Younger and Older Adults Master the Usage of Hyperlinks in Small Screen Devices,"In this paper we describe an experiment, in which we examined older and younger adults
+when interacting with a simulated PDA (personal digital assistant). Independent variables
+were users' age (young vs. older) and device interface (hyperlink vs. no hyperlink).
+Dependent variables were the effectiveness and efficiency of menu navigation. To understand
+how user characteristics influence performance, spatial ability, verbal memory, computer
+expertise and technical self-confidence were determined. Technology experienced young
+and older adults (benchmark testing) took part. They had to solve four tasks either
+with hyperlink interface or without hyperlinks in the interface. The method to collect,
+to automatically analyze and to structure the data according to interaction sequences
+and presumed user intentions is a novel approach supported by the open source software
+tool Clever [12]. The tool is briefly described; more details can be found in [23].
+Results revealed that hyperlink interfaces showed overall higher effectiveness. However,
+the impact of hyperlinks for efficiency was age-related. Younger adults strongly benefit
+from having hyperlinks. The contrary was the case for older adults, who showed higher
+menu disorientation when using hyperlinks.",2007,https://dx.doi.org/10.1145/1240624.1240676,no
+Leveraging Software Bots to Enhance Developers' Collaboration in Online Programming Communities,"Software bots are applications that are integrated into human communication channels,
+serving as an interface between users and other tools. Due to their focus on task
+automation, bots have become particularly relevant for Open Source Software (OSS)
+projects hosted on GitHub. While bots are adopted to save developers' costs, time,
+and effort, the interaction of these bots can be disruptive to the community. My research
+goal is two-fold: (i) identify problems caused by bots that interact in pull requests,
+and (ii) help bot designers to enhance existing bots, thereby improving the partnership
+with contributors and maintainers. Toward this end, we are interviewing developers
+to understand what are the problems on the human-bot interaction and how they affect
+human collaboration. Afterwards, we will employ Design Fiction to capture the developers'
+vision of bots' capabilities, in order to define guidelines for the design of bots
+on social coding platforms, and derive requirements for a meta-bot to deal with the
+problems. This work contributes more broadly to the design and use of software bots
+to enhance developers' collaboration and interaction.",2020,https://dx.doi.org/10.1145/3406865.3418368,no
+Approximating Interactive Human Evaluation with Self-Play for Open-Domain Dialog Systems,"Building an open-domain conversational agent is a challenging problem. Current evaluation
+methods, mostly post-hoc judgments of static conversation, do not capture conversation
+quality in a realistic interactive context. In this paper, we investigate interactive
+human evaluation and provide evidence for its necessity; we then introduce a novel,
+model-agnostic, and dataset-agnostic method to approximate it. In particular, we propose
+a self-play scenario where the dialog system talks to itself and we calculate a combination
+of proxies such as sentiment and semantic coherence on the conversation trajectory.
+We show that this metric is capable of capturing the human-rated quality of a dialog
+model better than any automated metric known to-date, achieving a significant Pearson
+correlation (r &gt; .7, p &lt; .05). To investigate the strengths of this novel metric and
+interactive evaluation in comparison to state-of-the-art metrics and human evaluation
+of static conversations, we perform extended experiments with a set of models, including
+several that make novel improvements to recent hierarchical dialog generation architectures
+through sentiment and semantic knowledge distillation on the utterance level. Finally,
+we open-source the interactive evaluation platform we built and the dataset we collected
+to allow researchers to efficiently deploy and evaluate dialog models.",2019,,no
+Make: Volume 45 Robot Workshop - Make Technology on Your Time,"May is Robot Month at Maker Media, and in this volume of Make:, we'll take a deeper
+look at the latest developments in the robotics industry; the DIY humanoid robotic
+movement, the resurgence of battling bots, and Maker manufacturing (both in Shenzhen
+and domestically). In this issue: Inmoov: The coolest builds of the 3D printed, open-source
+robot from France that has become a global prototyping platform.Combat Bots are Back!
+Battle bots are making their resurgence and influencing real-world robot applications.
+(Includes a Combat Bot design project!)Featured Project: Universal Gripper/robotic
+handFeatured Project: DIY Self-Balancing Robot (Arduino-based build)Gareth Branwyn
+navigates the Maker manufacturing scene and provides stories and insights.",2015,,no
+Continual Online Evolutionary Planning for In-Game Build Order Adaptation in StarCraft,"The real-time strategy game StarCraft has become an important benchmark for AI research
+as it poses a complex environment with numerous challenges. An important strategic
+aspect in this game is to decide what buildings and units to produce. StarCraft bots
+playing in AI competitions today are only able to switch between predefined strategies,
+which makes it hard to adapt to new situations. This paper introduces an evolutionary-based
+method to overcome this challenge, called Continual Online Evolutionary Planning (COEP),
+which is able to perform in-game adaptive build-order planning. COEP was added to
+an open source StarCraft bot called UAlbertaBot and is able to outperform the built-in
+bots in the game as well as being competitive against a number of scripted opening
+strategies. The COEP augmented bot can change its build order dynamically and quickly
+adapt to the opponent's strategy.",2017,https://dx.doi.org/10.1145/3071178.3071210,no
+POSTER: DeepCRACk: Using Deep Learning to Automatically CRack Audio CAPTCHAs,"A Completely Automated Public Turing test to tell Computers and Humans Apart (CAPTCHA)
+is a defensive mechanism designed to differentiate humans and computers to prevent
+unauthorized use of online services by automated attacks. They often consist of a
+visual or audio test that humans can perform easily but that bots cannot solve. However,
+with current machine learning techniques and open-source neural network architectures,
+it is now possible to create a self-contained system that is able to solve specific
+CAPTCHA types and outperform some human users. In this paper, we present a neural
+network that leverages Mozilla's open source implementation of Baidu's Deep Speech
+architecture; our model is currently able to solve the audio version of an open-source
+CATPCHA system (named SimpleCaptcha) with 98.8% accuracy. Our network was trained
+on 100,000 audio samples generated from SimpleCaptcha and can solve new SimpleCaptcha
+audio tests in 1.25 seconds on average (with a standard deviation of 0.065 seconds).
+Our implementation seems additionally promising because it does not require a powerful
+server to function and is robust to adversarial examples that target Deep Speech's
+pre-trained models.",2018,https://dx.doi.org/10.1145/3196494.3201581,no
+Building Trading Bots Using Java,"Build an automated currency trading bot from scratch with java. In this book, you
+will learn about the nitty-gritty of automated trading and have a closer look at Java,
+the Spring Framework, event-driven programming, and other open source APIs, notably
+Google's Guava API. And of course, development will all be test-driven with unit testing
+coverage. The central theme of Building Trading Bots Using Java is to create a framework
+that can facilitate automated trading on most of the brokerage platforms, with minimum
+changes. At the end of the journey, you will have a working trading bot, with a sample
+implementation using the OANDA REST API, which is free to use. What You'll LearnFind
+out about trading botsDiscover the details of tradeable instruments and apply bots
+to themTrack and use market data eventsPlace orders and tradesWork with trade/order
+and account eventsWho This Book Is ForExperienced programmers new to bots and other
+algorithmic trading and finance techniques.",2016,,no
+Building a Bot for Automatic Expert Retrieval on Discord,"It is common for software practitioners to look for experts on online chat platforms,
+such as Discord. However, finding them is a complex activity that requires a deep
+knowledge of the open source community. As a consequence, newcomers and casual participants
+may not be able to adequately find experts willing to discuss a particular topic.
+Our paper describes a bot that provides a ranked list of Discord users that are experts
+in a particular set of topics. Our bot uses simple heuristics to model expertise,
+such as a word occurrence table and word embeddings. Our bot shows that at least half
+of the retrieved users are indeed experts.",2021,https://dx.doi.org/10.1145/3472674.3473982,no
+Developing Bots with Microsoft Bots Framework: Create Intelligent Bots Using MS Bot Framework and Azure Cognitive Services,"Develop Intelligent Bots using Microsoft Bot framework (C# and Node.js), Visual Studio
+Enterprise &amp; Code, MicrosoftAzure and Cognitive Services. This book shows you how
+to develop great Bots, publish to Azure and register with Bot portal so that customers
+canconnect and communicate using famous communication channels like Skype, Slack,
+Web and Facebook. You'll alsolearn how to build intelligence into Bots using Azure
+Cognitive Services like LUIS, OCR, Speech to Text and WebSearch. Bots are the new
+face of user experience. Conversational User Interface provides many options to make
+userexperience richer, innovative and engaging with email, text, buttons or voice
+as the medium for communication. Modern line of business applications can be replaced
+or associated with Intelligent Bots that can use data/history combined with Machine
+Intelligence to make user experience inclusive and exciting. With Developing Bots
+with Microsoft Bots Framework, you'll see just how simple Bot building can be. What
+You'll Learn Build Bots using MS Bot framework on Windows and Non-Windows platforms
+Publish your Bot to the cloud in minutes Create rich communication platforms between
+your application and users Apply Artificial Intelligence and Machine Learning to your
+applications Who This Book Is For Developers and Architects who design and build modern
+applications or communication platforms using MS stack or open source technologies.
+Business Analysts and UX Specialists interested in designing and building trendy user
+interfaces/platforms using Bots and Azure ML",2017,,no
+How to Design a Program Repair Bot? Insights from the Repairnator Project,"Program repair research has made tremendous progress over the last few years, and
+software development bots are now being invented to help developers gain productivity.
+In this paper, we investigate the concept of a ""program repair bot"" and present Repairnator.
+The Repairnator bot is an autonomous agent that constantly monitors test failures,
+reproduces bugs, and runs program repair tools against each reproduced bug. If a patch
+is found, Repairnator bot reports it to the developers. At the time of writing, Repairnator
+uses three different program repair systems and has been operating since February
+2017. In total, it has studied 11 523 test failures over 1 609 open-source software
+projects hosted on GitHub, and has generated patches for 15 different bugs. Over months,
+we hit a number of hard technical challenges and had to make various design and engineering
+decisions. This gives us a unique experience in this area. In this paper, we reflect
+upon Repairnator in order to share this knowledge with the automatic program repair
+community.",2018,https://dx.doi.org/10.1145/3183519.3183540,no
+Evolving Unsupervised Neural Networks for Slither.Io,"Slither.io is a massively multiplayer online game in which up to 500 players control
+worm-like avatars and consume food to grow with the goal of becoming the largest player
+while avoiding running into one another. The platform serves as a good testbed for
+developing AI controlled agents due to its accessibility, mechanical simplicity, and
+unpredictability. In this paper, we develop a Slither.io bot using neuroevolution
+of augmenting topologies (NEAT) and compare its performance to that of the best open
+source bot available online (a high-performing expert system bot). With a fitness
+function based on the final size of the agent, our results show steady improvement
+in average score. We discuss the unique emergent behaviors observed by our top performing
+agents.",2019,https://dx.doi.org/10.1145/3337722.3341837,no
+Portable DoS Test Tool for IoT Devices,"In the recent years, internet-of-things (IoT) devices have attracted an increasing
+share of attention, and the vulnerability of IoT devices has been clarified. For example,
+the IoT malware {¥it Mirai} constructs a bot using the vulnerability of IoT equipment
+embedded with Linux and exploits it for distributed denial of service (DDoS) attacks.
+Meanwhile, as reported in papers, examples of denial of service (DoS) attacks targeting
+IoT/embedded devices have emerged. Therefore, the DoS test at the stage of product
+design and development stage is very important. We then created an open source software
+(OSS) based portable DoS test tool for IoT devices.",2017,https://dx.doi.org/10.1145/3139937.3139950,no
+Demonstration of Multi-Agent Potential Fields in Real-Time Strategy Games,"Bots for Real Time Strategy (RTS) games provide a rich challenge to implement. A bot
+controls a number of units that may have to navigate in a partially unknown environment,
+while at the same time search for enemies and coordinate attacks to fight them down.
+Potential fields is a technique originating from the area of robotics where it is
+used in controlling the navigation of robots in dynamic environments. Although attempts
+have been made to transfer the technology to the gaming sector, assumed problems with
+efficiency and high costs for implementation have made the industry reluctant to adopt
+it. Our demo shows the use of Multi-agent Potential Fields (MAPF) in an open source
+RTS game. We will demonstrate both the potential fields as such, and the coordination
+of the agents.",2008,,no
+Make: Technology on Your Time Volume 38 DIY Consumer Electronics,"Makers are always identifying ways to invent new products and hack devices to improve
+their lives and lifestyle. With easily accessible components, open source hardware,
+and hackable platforms, its easier and more fun than ever. In MAKE Volume 38, readers
+will learn to build many projects, including:A Raspberry Pi-powered tabletAn Arduino-driven
+cell phoneThe Sing-Along Song DevocalizerAmazing CNC furniture projectsThe Pocket
+Bot Mini Robot ArmThe possibilities are endlesswith the right tools and build instructions
+from MAKE.",2014,,no
+HTTP Programming Recipes for C# Bots,"The Hypertext Transfer Protocol (HTTP) allows information to be exchanged between
+a web server and a web browser. C# allows you to program HTTP directly. HTTP programming
+allows you to create programs that access the web much like a human user would. These
+programs, which are called bots, can collect information or automate common web programming
+tasks. This book presents a collection of very reusable recipes for C# bot programming.
+This book covers many topics related to C# HTTP programming. Both secure and insecure
+HTTP communications are covered, as well as HTTP authentication. Learn to interact
+with HTTP forms and support both HTTP POST and HTTP GET requests. Collect data from
+a wide array of HTML constructs, such as tables, and lists. Learn about advanced topics
+that complicate the life of a bot, such as AJAX and Javascript. Also learn about the
+ethical use of bots, and when bots should not be used. This book also introduces the
+Heaton Research Spider. The Heaton Research Spider is an open source spider framework.
+Using the Heaton Research Spider you can create spiders that will crawl a web site,
+much like a real spider crawls the web. The Heaton Research Spider is available in
+both Java and Microsoft Dot Net form.",2007,,no
+Explainable Software Bot Contributions: Case Study of Automated Bug Fixes,"In a software project, esp. in open-source, a contribution is a valuable piece of
+work made to the project: writing code, reporting bugs, translating, improving documentation,
+creating graphics, etc. We are now at the beginning of an exciting era where software
+bots will make contributions that are of similar nature than those by humans.Dry contributions,
+with no explanation, are often ignored or rejected, because the contribution is not
+understandable per se, because they are not put into a larger context, because they
+are not grounded on idioms shared by the core community of developers.We have been
+operating a program repair bot called Repairnator for 2 years and noticed the problem
+of ""dry patches"": a patch that does not say which bug it fixes, or that does not explain
+the effects of the patch on the system. We envision program repair systems that produce
+an ""explainable bug fix"": an integrated package of at least 1) a patch, 2) its explanation
+in natural or controlled language, and 3) a highlight of the behavioral difference
+with examples.In this paper, we generalize and suggest that software bot contributions
+must explainable, that they must be put into the context of the global software development
+conversation.",2019,https://dx.doi.org/10.1109/BotSE.2019.00010,no
+WikiGateway: A Library for Interoperability and Accelerated Wiki Development,"WikiGateway is an open-source suite of tools for automated interaction with wikis:•
+Python and Perl modules with functions like getPage, putPage, getRecentChanges, and
+more.• A mechanism to add DAV, Atom, or XMLRPC capabilities to any supported wiki
+server.• A command-line tool with functionality similar to the Perl and Python modules.•
+Demo applications built on top of these tools include a wiki copy command, a spam-cleaning
+bot, and a tool to recursively upload text files inside a directory structure as wiki
+pages.All WikiGateway tools are compatible with a number of different wiki engines.
+Developers can use WikiGateway to hide the differences between wiki engines and build
+applications which interoperate with many different wiki engines.",2005,https://dx.doi.org/10.1145/1104973.1104979,no
+Low-Code from Frontend to Backend: Connecting Conversational User Interfaces to Backend Services via a Low-Code IoT Platform," Current chatbot development platforms and frameworks facilitate setting up the language
+and dialog part of chatbots, while connecting it to backend services and business
+functions requires substantial manual coding effort and programming skills. This paper
+proposes an approach to overcome this situation. It proposes an architecture with
+a chatbot as frontend using an IoT (Internet of Things) platform as a middleware for
+connections to backend services. Specifically, it elaborates and demonstrates how
+to combine a chatbot developed on the open source development platform Rasa with the
+open source platform Node-RED, allowing low-code or no-code development of a transactional
+conversational user interface from frontend to backend.",2021,https://dx.doi.org/10.1145/3469595.3469632,no
+RefBot: Intelligent Software Refactoring Bot,"The adoption of refactoring techniques for continuous integration received much less
+attention from the research community comparing to root-canal refactoring to fix the
+quality issues in the whole system. Several recent empirical studies show that developers,
+in practice, are applying refactoring incrementally when they are fixing bugs or adding
+new features. There is an urgent need for refactoring tools that can support continuous
+integration and some recent development processes such as DevOps that are based on
+rapid releases. Furthermore, several studies show that manual refactoring is expensive
+and existing automated refactoring tools are challenging to configure and integrate
+into the development pipelines with significant disruption cost.In this paper, we
+propose, for the first time, an intelligent software refactoring bot, called RefBot.
+Integrated into the version control system (e.g. GitHub), our bot continuously monitors
+the software repository, and it is triggered by any ""open"" or ""merge"" action on pull
+requests. The bot analyzes the files changed during that pull request to identify
+refactoring opportunities using a set of quality attributes then it will find the
+best sequence of refactorings to fix the quality issues if any. The bot recommends
+all these refactorings through an automatically generated pull-request. The developer
+can review the recommendations and their impacts in a detailed report and select the
+code changes that he wants to keep or ignore. After this review, the developer can
+close and approve the merge of the bot's pull request. We quantitatively and qualitatively
+evaluated the performance and effectiveness of RefBot by a survey conducted with experienced
+developers who used the bot on both open source and industry projects.",2019,https://dx.doi.org/10.1109/ASE.2019.00081,no
+Clustering Android Malware Families by Http Traffic,"Due to its popularity and open-source nature, Android is the mobile platform that
+has been targeted the most by malware that aim to steal personal information or to
+control the users devices. More specifically, mobile botnets are malware that allow
+an attacker to remotely control the victims devices through different channels like
+HTTP, thus creating malicious networks of bots. In this paper, we show how it is possible
+to effectively group mobile botnets families by analyzing the HTTP traffic they generate.
+To do so, we create malware clusters by looking at specific statistical information
+that are related to the HTTP traffic. This approach also allows us to extract signatures
+with which it is possible to precisely detect new malware that belong to the clustered
+families. Contrarily to x86 malware, we show that using fine-grained HTTP structural
+features do not increase detection performances. Finally, we point out how the HTTP
+information flow among mobile bots contains more information when compared to the
+one generated by desktop ones, allowing for a more precise detection of mobile threats.",2015,https://dx.doi.org/10.1109/MALWARE.2015.7413693,no
+A Comparison of Player/Stage/Gazebo and Microsoft Robotics Developer Studio,"Robotic development environments are a key technology for enabling the rapid advancement
+of the state of robotics. This paper compares two prominent robotic development environments
+to examine the limitations in the current state of the art. The first is Player/Stage/Gazebo
+which is a well established open source project. The second is Microsoft Robotics
+Developer Studio, a fairly new offering from a major player in the software industry.
+The comparison was done in two ways: 1) by examining the documented features and 2)
+examining usability experience gained while implementing two common mobile autonomous
+robotic tasks, wandering and foraging. The tasks were executed in simulation and on
+a 914 PC-BOT from White Box Robotics. Quantitative results were generated using a
+set of well defined feature and usability criteria. These results were then further
+analyzed by a qualitative analysis of the entire process it took to implement both
+tasks.",2011,https://dx.doi.org/10.1145/2016039.2016062,no
+Why Developers Are Slacking Off: Understanding How Software Teams Use Slack,"Slack is a modern communication platform for teams that is seeing wide and rapid adoption
+by software develop-ment teams. Slack not only facilitates team messaging and archiving,
+but it also supports a wide plethora of inte-grations to external services and bots.
+We have found that Slack and its integrations (i.e., bots) are playing an increas-ingly
+significant role in software development, replacing email in some cases and disrupting
+software development processes. To understand how Slack impacts development team dynamics,
+we designed an exploratory study to inves-tigate how developers use Slack and how
+they benefit from it. We find that developers use Slack for personal, team-wide and
+community-wide purposes. Our research also reveals that developers use and create
+diverse integrations (called bots) to support their work. This study serves as the
+first step towards understanding the role of Slack in sup-porting software engineering.",2016,https://dx.doi.org/10.1145/2818052.2869117,no
+Deploying Speech Interfaces to the Masses,"Speech systems are typically deployed either over phones, e.g. IVR agents, or on embodied
+agents, e.g. domestic robots. Most of these systems are limited to a particular platform
+i.e., only accessible by phone or in situated interactions. This limits scalability
+and potential domain of operation. Our goal is to make speech interfaces more widely
+available, and we are proposing a new approach for deploying such interfaces on the
+internet along with traditional platforms. In this work, we describe a lightweight
+speech interface architecture built on top of Freeswitch, an open source softswitch
+platform. A softswitch enables us to provide users with access over several types
+of channels (phone, VOIP, etc.) as well as support multiple users at the same time.
+We demonstrate two dialog applications developed using this approach: 1) Virtual Chauffeur:
+a voice based virtual driving experience and 2) Talkie: a speech-based chat bot.",2013,https://dx.doi.org/10.1145/2451176.2451189,no
+The Network Neutrality Bot Architecture: A Preliminary Approach for Self-Monitoring of Internet Access QoS,"The ""network neutrality bot"" (Neubot) is an evolving software architecture for distributed
+Internet access quality and network neutrality measurements. The core of this architecture
+is an open-source agent that ordinary users may install on their computers to gain
+a deeper understanding of their Internet connections. The agent periodically monitors
+the quality of service provided to the user, running background active transmission
+tests that emulate different application-level protocols. The results are then collected
+on a central server and made publicly available to allow constant monitoring of the
+state of the Internet by interested parties. In this article we describe how we enhanced
+Neubot architecture both to deploy a distributed broadband speed test and to allow
+the development of plug-in transmission tests. In addition, we start a preliminary
+discussion on the results we have collected in the first three months after the first
+public release of the software.",2011,https://dx.doi.org/10.1109/ISCC.2011.5983857,no
+Using RDF to Describe Networks,"Conventions such as iGrid 2005 and SuperComputing show that there is increasing demand
+for more service options on networks. For such networks, large teams of experts are
+needed to configure and manage them. In order to make the full potential of hybrid
+networks available to the ordinary user, the complexity must be reduced.This paper
+presents the idea of the Network Description Language (NDL), which builds on Semantic
+Web techniques to create a distributed Topology Knowledge Base (TKB). The TKB can
+provide a collection of reachability graphs, showing connectivity rules among physical
+and/or virtual entities.Latching onto the Semantic Web provides network management
+with a new breed of tools--bots, compilers, browsers, both commercial off-the-shelf
+(COTS) and open source. The approach appears to be applicable to the Global Lambda
+Integrated Facility (GLIF) as well as other experimental communities.",2006,https://dx.doi.org/10.1016/j.future.2006.03.022,no
+Current and Future Bots in Software Development,"Bots that support software development (""DevBots"") are seen as a promising approach
+to deal with the ever-increasing complexity of modern software engineering and development.
+Existing DevBots are already able to relieve developers from routine tasks such as
+building project images or keeping dependencies up-to-date. However, advances in machine
+learning and artificial intelligence hold the promise of future, significantly more
+advanced, DevBots. In this paper, we introduce the terminology of contemporary and
+ideal DevBots. Contemporary DevBots represent the current state of practice, which
+we characterise using a facet-based taxonomy. We exemplify this taxonomy using 11
+existing, industrial-strength bots. We further provide a vision and definition of
+future (ideal) DevBots, which are not only autonomous, but also adaptive, as well
+as technically and socially competent. These properties may allow ideal DevBots to
+act more akin to artificial team mates than simple development tools.",2019,https://dx.doi.org/10.1109/BotSE.2019.00009,no
+Artificial Intelligence Empowered Domain Modelling Bot,"With the increasing adoption of Model-Based Software Engineering (MBSE) to handle
+the complexity of modern software systems in industry and inclusion of modelling topics
+in academic curricula, it is no longer a question of whether to use MBSE but how to
+use it. Acquiring modelling skills to properly build and use models with the help
+of modelling formalisms are non-trivial learning objectives, which novice modellers
+struggle to achieve for several reasons. For example, it is difficult for novice modellers
+to learn to use their abstraction abilities. Also, due to high student-teacher ratios
+in a typical classroom setting, novice modellers may not receive personalized and
+timely feedback on their modelling decisions. These issues hinder the novice modellers
+in improving their modelling skills. Furthermore, a lack of modelling skills among
+modellers inhibits the adoption and practice of modelling in industry. Therefore,
+an automated and intelligent solution is required to help modellers and other practitioners
+in improving their modelling skills. This doctoral research builds an automated and
+intelligent solution for one modelling formalism - domain models, in an avatar of
+a domain modelling bot. The bot automatically extracts domain models from problem
+descriptions written in natural language and generates intelligent recommendations,
+particularly for teaching modelling literacy to novice modellers. For this domain
+modelling bot, we leverage the capabilities of various Artificial Intelligence techniques
+such as Natural Language Processing and Machine Learning.",2020,https://dx.doi.org/10.1145/3417990.3419486,no
+Beginning Robotics Programming in Java with LEGO Mindstorms,"Discover the difference between making a robot move and making a robot think. Using
+Mindstorms EV3 and LeJOSan open source project for Java Mindstorms projectsyoull learn
+how to create Artificial Intelligence for your bot. Your robot will learn how to problem
+solve, how to plan, how to learn, and how to communicate. Along the way, youll learn
+about classical AI algorithms for teaching hardware how to think, algorithms that
+you can then apply to your own robotic inspirations. If youve ever wanted to learn
+about robotic intelligence in a practical, playful way, Beginning Robotics Programming
+in Java with LEGO Mindstormsis for you. What youll learn: Build your first LEGO EV3
+robot step-by-step Install LeJOS and its firmware on Lego EV3 Create and upload your
+first Java Program into Lego EV3 LeJOS API FunctionsJava Programming for MotorsRobotics
+Behavior Programming with SensorsCommon AI Algorithms like DFS, BFS, and Dijkstras
+AlgorithmJava Multithreading Programming with Lego EV3 Who this book is for: Students,
+teachers, and makers with basic Java programming experience who want to learn how
+to apply Artificial Intelligence to a practical robotic system.",2016,,no
+Investigating the Benefits of Applying Artificial Intelligence Techniques to Enhance Learning Experiences in Capstone Courses,"This research seeks to improve the learning experiences in Software Engineering Programs
+using Virtual Assistants based on Artificial Intelligence (AI) models. Students of
+Software Engineering Capstone Courses face real world situations and challenges that
+grant them valuable experiences for their professional preparation. However, since
+this knowledge is acquired through real-life exposure projects, it is difficult to
+transmit it among different generations of students. In consequence, all the gained
+knowledge, experiences, and computer codes developed are lost and cannot be reused
+outside the project context when they finish their assignment at the end of the semester.
+To address this challenge, this thesis considers the development of AI based virtual
+assistants applied in higher education, in a form of a lesson learned system, a recommender
+system integrated with a chatbot, to help students , solve problems similar to those
+they face in the different stages of their software project development by recommending
+previous lessons learned. The innovative contribution lies in the implementation of
+the described techniques from the state-of-art artificial intelligence field in an
+educational platform with the goal to leverage the experience gained during years
+of the teaching a Capstone Course in Software Engineering to new student generations
+who might benefit from this universal knowledge gained previously, in order to assist
+software engineering students to enhance their learning experience.",2021,https://dx.doi.org/10.1145/3446871.3469770,no
+DigiMo - towards Developing an Emotional Intelligent Chatbot in Singapore,"The paper is a work in progress report on the development of DigiMo, a chatbot with
+emotional intelligence. The chatbot development is based on a data collection and
+annotations of real dialogues between local Singaporeans expressing genuine emotions.
+The models were trained with cakechat, an open source sequence-to-sequence deep neural
+network. Perplexity measurements from automatic testing, as well as feedback from
+6 expert evaluators confirmed the chatbot answers have high accuracy.",2020,https://dx.doi.org/10.1145/3391203.3391210,no
+APIBot: Question Answering Bot for API Documentation," As the carrier of Application Programming Interfaces (APIs) knowledge, API documentation
+plays a crucial role in how developers learn and use an API. It is also a valuable
+information resource for answering API-related questions, especially when developers
+cannot find reliable answers to their questions online/offline. However, finding answers
+to API-related questions from API documentation might not be easy because one may
+have to manually go through multiple pages before reaching the relevant page, and
+then read and understand the information inside the relevant page to figure out the
+answers. To deal with this challenge, we develop APIBot, a bot that can answer API
+questions given API documentation as an input. APIBot is built on top of SiriusQA,
+the QA system from Sirius, a state of the art intelligent personal assistant. To make
+SiriusQA work well under software engineering scenario, we make several modifications
+over SiriusQA by injecting domain specific knowledge. We evaluate APIBot on 92 API
+questions, answers of which are known to be present in Java 8 documentation. Our experiment
+shows that APIBot can achieve a Hit@5 score of 0.706. ",2017,,no
+Automatic Contract Insertion with CCBot,"Existing static analysis tools require significant programmer effort. On large code
+bases, static analysis tools produce thousands of warnings. It is unrealistic to expect
+users to review such a massive list and to manually make changes for each warning.
+To address this issue we propose CCBot (short for <bold>C</bold>ode<bold>C</bold>ontracts
+<bold>Bot</bold>), a new tool that applies the results of static analysis to existing
+code through automatic code transformation. Specifically, CCBot instruments the code
+with method preconditions, postconditions, and object invariants which detect faults
+at runtime or statically using a static contract checker. The only configuration the
+programmer needs to perform is to give CCBot the file paths to code she wants instrumented.
+This allows the programmer to adopt contract-based static analysis with little effort.
+CCBot's instrumented version of the code is guaranteed to compile if the original
+code did. This guarantee means the programmer can deploy or test the instrumented
+code immediately without additional manual effort. The inserted contracts can detect
+common errors such as null pointer dereferences and out-of-bounds array accesses.
+CCBot is a robust large-scale tool with an open-source C# implementation. We have
+tested it on real world projects with tens of thousands of lines of code. We discuss
+several projects as case studies, highlighting undiscovered bugs found by CCBot, including
+22 new contracts that were accepted by the project authors.",2017,https://dx.doi.org/10.1109/TSE.2016.2625248,no
+Turi: Chatbot Software for Schools in the Turing Centenary,"We describe a workshop designed for 11-19 year-olds that considers the nature of intelligence
+and introduces the Turing test in various ways.Chatbots as mimics of intelligence
+are considered at length. Pupils are invited to use our system Turi in which they
+can build and test their own chatbot.The materials are free, open source and available
+for all to download [1].",2012,https://dx.doi.org/10.1145/2481449.2481489,no
+From Open-Source Software to Wikipedia: `Backgrounding' Trust by Collective Monitoring and Reputation Tracking,"Open-content communities that focus on co-creation without requirements for entry
+have to face the issue of institutional trust in contributors. This research investigates
+the various ways in which these communities manage this issue. It is shown that communities
+of open-source software--continue to--rely mainly on hierarchy (reserving write-access
+for higher echelons), which substitutes (the need for) trust. Encyclopedic communities,
+though, largely avoid this solution. In the particular case of Wikipedia, which is
+confronted with persistent vandalism, another arrangement has been pioneered instead.
+Trust (i.e. full write-access) is `backgrounded' by means of a permanent mobilization
+of Wikipedians to monitor incoming edits. Computational approaches have been developed
+for the purpose, yielding both sophisticated monitoring tools that are used by human
+patrollers, and bots that operate autonomously. Measures of reputation are also under
+investigation within Wikipedia; their incorporation in monitoring efforts, as an indicator
+of the trustworthiness of editors, is envisaged. These collective monitoring efforts
+are interpreted as focusing on avoiding possible damage being inflicted on Wikipedian
+spaces, thereby being allowed to keep the discretionary powers of editing intact for
+all users. Further, the essential differences between backgrounding and substituting
+trust are elaborated. Finally it is argued that the Wikipedian monitoring of new edits,
+especially by its heavy reliance on computational tools, raises a number of moral
+questions that need to be answered urgently.",2014,https://dx.doi.org/10.1007/s10676-014-9342-9,no
+Design and Implementation of Live SD Acquisition Tool in Android Smart Phone,"From the end of 2007, the open-source characteristic of Android platform has been
+the most competitive one in the smart phone market. According to recent statistics
+from Gartner, Android s market share in February 2010 is 3.9%, rises to 17.2% in August
+in the same year, and reaches 22.7% in February 2011, which only falls behind Nokia
+s by 14.9%. From its skyrocketing growth rate, it can be expected that Google s Android
+operating system would become the dominate mobile platform. However, high market share
+comes with problems. For instance, in March 2011, Lookout, an information security
+company shows Dorid Dream will make the Android phones become the media of Bot Network.
+The ever-changing criminal conduct continuously challenges how well the present digital
+forensics could react. Data acquisition is an important part in mobile phone forensics.
+As the mobile forensic software becomes more mature and popular, most of them are
+now facing the same problem where the internal collecting tools must be installed
+in the mobile phones first so the data collecting could be started in turn. Whether
+this process is against the concept of protecting the original crime scene in forensics
+is questionable. A new concept called Live SD is therefore introduced in this work.
+It utilizes the concept of data recovery to perform physical data acquisition in Android
+smart phones. This data-acquisition methodology differs from the current ones in most
+mobile forensics software and can effectively perform the recovery of the deleted
+data.",2011,https://dx.doi.org/10.1109/ICGEC.2011.46,no
+Toward an Empirical Theory of Feedback-Driven Development,"Software developers today crave for feedback, be it from their peers or even bots
+in the form of code review, static analysis tools like their compiler, or the local
+or remote execution of their tests in the Continuous Integration (CI) environment.
+With the advent of social coding sites like GitHub and tight integration of CI services
+like Travis CI, software development practices have fundamentally changed. Despite
+a highly changed software engineering landscape, however, we still lack a suitable
+description of an individual's contemporary software development practices, that is
+how an individual code contribution comes to be. Existing descriptions like the v-model
+are either too coarse-grained to describe an individual contributor's workflow, or
+only regard a sub-part of the development process like Test-Driven Development. In
+addition, most existing models are pre- rather than de-scriptive. By contrast, in
+our thesis, we perform a series of empirical studies to describe the individual constituents
+of Feedback-Driven Development (FDD) and then compile the evidence into an initial
+framework on how modern software development works. Our thesis culminates in the finding
+that feedback loops are the characterizing criterion of contemporary software development.
+Our model is flexible enough to accommodate a broad bandwidth of contemporary workflows,
+despite large variances in how projects use and configure parts of FDD.",2018,https://dx.doi.org/10.1145/3183440.3190332,no
+Session Details: Developers Track,"It is our great pleasure to welcome you to the rebooted Developers Day, at with WWW
+2016.The success of the World Wide Web depends on its developers. From Hypertext and
+Web Browsers to the APIs that extend the capabilities of the Web, developers have
+played a very important role in making the Web as ubiquitous as it is today. To celebrate
+this great driving force behind the Web, we have rebooted the Developers Day at the
+World Wide Web Conference.The presenters at Developers Day are developers who have
+interesting open-source software to showcase to the Web developer community. The submissions
+that were accepted for presentation clearly showed an innovative use of technology,
+a potential to advance the state of the art of the Web, and a real-world application
+of the software. Some of the presentations include social bots, Web-based payment
+protocols, collaborative web environments, tracking changes in large knowledge organization
+systems, and testing frameworks suited for the Web. All of these topics are timely
+and are of interest to the general Web developer community.The program for the Developers
+Day consists of a round of lightning talks followed by Birds of a Feather (BoF) sessions
+where attendees are able to get an in-depth look at the software presented in the
+form of a hands-on tutorial as well as a discussion of open challenges, next steps,
+and application areas. We believe that such developer discourse is essential for the
+advancement of the Web.",2016,,no
+Is It Possible to Use Chatbot for the Chinese Word Segmentation?,"A word is the smallest item in Natural Language Processing. However, there is no obvious
+boundary for Chinese words. How to segment Chinese words always obstructs Chinese
+researches and applications. Nowadays, a neural network model, Seq2Seq with LSTM,
+is well-known for translation or chatbot application. In this paper, we try to transform
+the Chinese word segmentation problem into a translation problem. And we utilized
+an open-source chatbot to simulate the translation task. In our experimental results,
+we can produce similar Chinese word segmentation results when we provide training
+data which is automatically generated from famous Chinese word segmentation services.",2019,https://dx.doi.org/10.1145/3342827.3342836,no
+Leveraging the SIP Load Balancer to Detect and Mitigate DDos Attacks,"SIP-based Voice Over IP(VoIP) network is becoming predominant in current and future
+communications. Distributed Denial of service attacks pose a serious threat to VOIP
+network security. SIP servers are victims of DDos attacks. The major aim of the DDos
+attacks is to avoid legitimate users to access resources of SIP servers. Distributed
+Denial of service attacks target the VOIP network by deploying bots at different locations
+by injecting malformed packets and even they halt the entire VOIP service causes degradation
+of QoS(Quality of Service). DDos attacks are easy to launch and quickly drain computational
+resources of VOIP network and nodes. Detecting DDos attacks is a challenging and extremely
+difficult due to its varying strategy and scope of attackers. Many DDos detection
+and prevention schemes are deployed in VOIP networks but they are not complete working
+in both realtime and offline modes. They are inefficient in detecting dynamic and
+low-rate DDos attacks and even fail when the attack is launched by simultaneously
+manipulating multiple SIP attributes. In this paper we propose a novel scheme based
+on Hellinger distance(HD) to detect low-rate and multi-attribute DDos attacks. Usually
+DDos detection and mitigations schemes are implemented in SIP proxy. But we leverage
+the SIP load balancer to fight against DDos by using existing load balancing features.
+We have implemented the proposed scheme by modifying leading open source kamailio
+SIP proxy server. We have evaluated our scheme by experimental test setup and found
+results are outperforming the existing DDos prevention schemes in terms of detection
+rate, system overhead and false-positive alarms.",2015,https://dx.doi.org/10.1109/ICGCIoT.2015.7380646,no
+Collaborative Modelling: Chatbots or On-Line Tools? An Experimental Study,"Modelling is a fundamental activity in software engineering, which is often performed
+in collaboration. For this purpose, on-line tools running on the cloud are frequently
+used. However, recent advances in Natural Language Processing have fostered the emergence
+of chatbots, which are increasingly used for all sorts of software engineering tasks,
+including modelling. To evaluate to what extent chatbots are suitable for collaborative
+modelling, we conducted an experimental study with 54 participants, to evaluate the
+usability of a modelling chatbot called SOCIO, comparing it with the on-line tool
+Creately. We employed a within-subjects cross-over design of 2 sequences and 2 periods.
+Usability was determined by attributes of efficiency, effectiveness, satisfaction
+and quality of the results. We found that SOCIO saved time and reduced communication
+effort over Creately. SOCIO satisfied users to a greater extent than Creately, while
+in effectiveness results were similar. With respect to diagram quality, SOCIO outperformed
+Creately in terms of precision, while solutions with Creately had better recall and
+perceived success. However, in terms of accuracy and error scores, both tools were
+similar.",2020,https://dx.doi.org/10.1145/3383219.3383246,no
+Security in Computing (4th Edition),"The New State-of-the-Art in Information Security: Now Covers the Economics of Cyber
+Security and the Intersection of Privacy and Information SecurityFor years, IT and
+security professionals and students have turned to Security in Computing as the definitive
+guide to information about computer security attacks and countermeasures. In their
+new fourth edition, Charles P. Pfleeger and Shari Lawrence Pfleeger have thoroughly
+updated their classic guide to reflect today's newest technologies, standards, and
+trends.The authors first introduce the core concepts and vocabulary of computer security,
+including attacks and controls. Next, the authors systematically identify and assess
+threats now facing programs, operating systems, database systems, and networks. For
+each threat, they offer best-practice responses.Security in Computing, Fourth Edition,
+goes beyond technology, covering crucial management issues faced in protecting infrastructure
+and information. This edition contains an all-new chapter on the economics of cybersecurity,
+explaining ways to make a business case for security investments. Another new chapter
+addresses privacy--from data mining and identity theft, to RFID and e-voting.New coverage
+also includes Programming mistakes that compromise security: man-in-the-middle, timing,
+and privilege escalation attacks Web application threats and vulnerabilities Networks
+of compromised systems: bots, botnets, and drones Rootkits--including the notorious
+Sony XCP Wi-Fi network security challenges, standards, and techniques New malicious
+code attacks, including false interfaces and keystroke loggers Improving code quality:
+software engineering, testing, and liability approaches Biometric authentication:
+capabilities and limitations Using the Advanced Encryption System (AES) more effectively
+Balancing dissemination with piracy control in music and other digital content Countering
+new cryptanalytic attacks against RSA, DES, and SHA Responding to the emergence of
+organized attacker groups pursuing profit",2006,,no
+Feature Engineering for Machine Learning and Data Analytics,"Feature engineering plays a vital role in big data analytics. Machine learning and
+data mining algorithms cannot work without data. Little can be achieved if there are
+few features to represent the underlying data objects, and the quality of results
+of those algorithms largely depends on the quality of the available features. Feature
+Engineering for Machine Learning and Data Analytics provides a comprehensive introduction
+to feature engineering, including feature generation, feature extraction, feature
+transformation, feature selection, and feature analysis and evaluation. The book presents
+key concepts, methods, examples, and applications, as well as chapters on feature
+engineering for major data types such as texts, images, sequences, time series, graphs,
+streaming data, software engineering data, Twitter data, and social media data. It
+also contains generic feature generation approaches, as well as methods for generating
+tried-and-tested, hand-crafted, domain-specific features. The first chapter defines
+the concepts of features and feature engineering, offers an overview of the book,
+and provides pointers to topics not covered in this book. The next six chapters are
+devoted to feature engineering, including feature generation for specific data types.
+The subsequent four chapters cover generic approaches for feature engineering, namely
+feature selection, feature transformation based feature engineering, deep learning
+based feature engineering, and pattern based feature generation and engineering. The
+last three chapters discuss feature engineering for social bot detection, software
+management, and Twitter-based applications respectively. This book can be used as
+a reference for data analysts, big data scientists, data preprocessing workers, project
+managers, project developers, prediction modelers, professors, researchers, graduate
+students, and upper level undergraduate students. It can also be used as the primary
+text for courses on feature engineering, or as a supplement for courses on machine
+learning, data mining, and big data analytics.",2018,,no
+Network of Knowledge: Wikipedia as a Sociotechnical System of Intelligence,"The purpose of this study was to explore the codependencies of the social and technical
+structures that yield Wikipedia the website and Wikipedia the community. In doing
+so, the research investigated the implications of such a sociotechnical system for
+the maintenance of the project and the emergence of collective intelligence. Using
+a theoretical framework informed by digital media studies, science and technology
+studies, and the political economy of communication, this study examined the material
+and ideological conditions in which Wikipedia has developed. The study's guiding research
+questions addressed the nature of Wikipedia's sociotechnical system and potential
+for collective intelligence, as well as the historical development of the project's
+technical infrastructure and the state of its technology-assisted collaboration. A
+mainly qualitative multi-method research approach was employed, including document
+analysis, semi-structured interviewing, and social network analysis. A plethora of
+documents were carefully selected and examined to explore how and why decisions were
+made, policies implemented, and technologies adopted on the site. Additionally, 45
+interviews were conducted with members of Wikipedia's technical community to understand
+the relationships between social and technical aspects of the project and the motivations
+of programmers who contribute automated tools. Finally, social network measures and
+visualizations were used to interrogate notions of collaboration and make more transparent
+the centrality of technology to the content creation process. The study revealed that
+Wikipedia's technical development has been shaped by the dueling ideologies of the
+open-source software movement and postindustrial capitalism. Its sociotechnical system
+features the complex collaboration of human contributors, automated programs, social
+bureaucracy, and technical protocol, each of which conditions the existence and meaning
+of the others. In addition, the activity on Wikipedia fits established models of collective
+intelligence and suggests the emergence of a cyberculture, or culturally informed
+shared intelligence, unique to the digital media context. Software robots (bots) are
+central actors in this system and are explored in detail throughout this research.",2012,,no
+Defeating Line-Noise CAPTCHAs with Multiple Quadratic Snakes,"Optical character recognition (OCR) is one of the fundamental problems in artificial
+intelligence and image processing, but recent progress in OCR represents a security
+challenge for Web sites that throttle requests with image based CAPTCHAs (Completely
+Automated Public Turing Tests to Tell Computers and Humans Apart). A CAPTCHA is challenge-response
+test placed within web forms to determine whether the user is human. Unfortunately,
+algorithms capable of solving image based CAPTCHAs can be used to create spam accounts
+and design malicious denial of service (DoS) attacks, causing financial and social
+damage. The problem of defeating digital image CAPTCHAs is thus twofold. On the one
+hand, it is an important problem in artificial intelligence and image processing.
+On the other hand, publicly available CAPTCHAs that are not tested against state of
+the art machine recognition algorithms may make the systems vulnerable to attack by
+software bots. This paper considers a very important subclass of text CAPTCHAs, those
+characterized by salt and pepper noise combined with line (curve) noise. Thus far,
+attacks on CAPTCHAs with this type of noise have used relatively simple image processing
+methods with some success, but state-of-the-art segmentation methods have not been
+fully exploited. In this paper, we propose and benchmark two strong segmentation methods.
+The first method is a modification of a multiple quadratic snake proposed for road
+extraction from satellite images. The second competing method is a boundary tracing
+routine available in the OpenCV open source library. A first numerical experiment
+indicates excellent accuracy for both methods. A second experiment on human recognition
+shows that the CAPTCHAs used in the study are already near the threshold of being
+too hard for humans. Finally, a third numerical experiment presents a more difficult
+set of CAPTCHAs with the addition of anti-binarization methods. The snake-based method
+is shown to be more resilient to anti-binarization schemes than boundary tracing and
+state-of-the art projection-based attacks on CAPTCHAs. Since CAPTCHAs corrupted by
+small line noise are shown to be difficult for humans and relatively easy for our
+algorithm, CAPTCHA designers should introduce more challenging distortions into their
+CAPTCHAs, lest the security of systems based on them be compromised.",2013,https://dx.doi.org/10.1016/j.cose.2013.05.003,no
+Should I Stale or Should I Close? An Analysis of a Bot That Closes Abandoned Issues and Pull Requests,"On GitHub, projects use bots to automate predefined and repetitive tasks related to
+issues and pull requests. Our research investigates the adoption of the stale bot,
+which helps maintainers triaging abandoned issues and pull requests. We analyzed the
+bots' configuration settings and their modifications over time. These settings define
+the time for tagging issues and pull request as stale and closing them. We collected
+data from 765 OSS projects hosted on GitHub. Our results indicate that most of the
+studied projects made no more than three modifications in the configurations file,
+issues tagged as bug reports are exempt from being considered stale, while the same
+occurs with pull requests that need some input to be processed.",2019,https://dx.doi.org/10.1109/BotSE.2019.00018,no
+Foodbot: A Goal-Oriented Just-in-Time Healthy Eating Interventions Chatbot,"Recent research has identified a few design flaws in popular mobile health (mHealth)
+applications for promoting healthy eating lifestyle, such as mobile food journals.
+These include tediousness of manual food logging, inadequate food database coverage,
+and a lack of healthy dietary goal setting. To address these issues, we present Foodbot,
+a chatbot-based mHealth application for goal-oriented just-in-time (JIT) healthy eating
+interventions. Powered by a large-scale food knowledge graph, Foodbot utilizes automatic
+speech recognition and mobile messaging interface to record food intake. Moreover,
+Foodbot allows users to set goals and guides their behavior toward the goals via JIT
+notification prompts, interactive dialogues, and personalized recommendation. Altogether,
+the Foodbot framework demonstrates the use of open-source data, tools, and platforms
+to build a practical mHealth solution for supporting healthy eating lifestyle in the
+general population.",2020,https://dx.doi.org/10.1145/3421937.3421960,no
+A Chatbot Assistant for Writing Good Quality Technical Reports,"It is frequently the case for final degree projects (FDP) to represent the largest
+academic endeavor students have been involved with. The writing of the FDP technical
+report tends to be one of the hurdles. Due to their inexperience, students fail to
+meet quality standards in their writing efforts. Research shows that text and image
+plagiarism, poor literature searches and lack of synthesis are some of the most usual
+errors. Yet, these error-filled memories keep publishing in university-backed open
+repositories. This paper describes a solution to help both students and supervisors
+detecting basic quality errors in FDP reports. Based on a chatbot front-end called
+Ikastenbot, students can upload their reports while they are writing them and spot,
+before publication, possible errors in spelling and grammar, text and images reuse,
+and lack of proper referencing. We applied the techniques described on the memories
+of our university FDP repository. Results show that Ikastenbot is able to detect errors
+in almost every report. The source code of our solution has been published under an
+open-source license.",2019,https://dx.doi.org/10.1145/3362789.3362798,no
+Can a Chatbot Support Software Engineers with Load Testing? Approach and Experiences,"Even though load testing is an established technique to assess load-related quality
+properties of software systems, it is applied only seldom and with questionable results.
+Indeed, configuring, executing, and interpreting results of a load test require high
+effort and expertise. Since chatbots have shown promising results for interactively
+supporting complex tasks in various domains (including software engineering), we hypothesize
+that chatbots can provide developers suitable support for load testing. In this paper,
+we present PerformoBot, our chatbot for configuring and running load tests. In a natural
+language conversation, PerformoBot guides developers through the process of properly
+specifying the parameters of a load test, which is then automatically executed by
+PerformoBot using a state-of-the-art load testing tool. After the execution, PerformoBot
+provides developers a report that answers the respective concern. We report on results
+of a user study that involved 47 participants, in which we assessed our tool's acceptance
+and effectiveness. We found that participants in the study, particularly those with
+a lower level of expertise in performance engineering, had a mostly positive view
+of PerformoBot.",2020,https://dx.doi.org/10.1145/3358960.3375792,no
+Detecting and Characterizing Bots That Commit Code,"Background: Some developer activity traditionally performed manually, such as making
+code commits, opening, managing, or closing issues is increasingly subject to automation
+in many OSS projects. Specifically, such activity is often performed by tools that
+react to events or run at specific times. We refer to such automation tools as bots
+and, in many software mining scenarios related to developer productivity or code quality,
+it is desirable to identify bots in order to separate their actions from actions of
+individuals. Aim: Find an automated way of identifying bots and code committed by
+these bots, and to characterize the types of bots based on their activity patterns.
+Method and Result: We propose BIMAN, a systematic approach to detect bots using author
+names, commit messages, files modified by the commit, and projects associated with
+the commits. For our test data, the value for AUC-ROC was 0.9. We also characterized
+these bots based on the time patterns of their code commits and the types of files
+modified, and found that they primarily work with documentation files and web pages,
+and these files are most prevalent in HTML and JavaScript ecosystems. We have compiled
+a shareable dataset containing detailed information about 461 bots we found (all of
+which have more than 1000 commits) and 13,762,430 commits they created.",2020,https://dx.doi.org/10.1145/3379597.3387478,no
+Peer-to-Peer Programming on Groove,"From the Book: The Internet Web site webopedia.internet.com defines peer-to-peer architecture
+as ""A type of network in which each workstation has equivalent capabilities and responsibilities.
+This differs from client/server architectures, in which some computers are dedicated
+to serving the others."" But peer-to-peer is much more than a technology; it represents
+a radical change in how we will soon use our computers. It is, all at once, a revolution,
+an evolution, and a revision. It is a revolution because it turns today's current
+client/server architecture on its ear. Suddenly, we're all producers of information
+as well as mere consumers. Peer-to-peer computing is also a cultural revolution. Peer-to-peer
+technology will fundamentally change the way small groups work and interact over the
+Internet. By making it easy to find and download music over the Web, Napster not only
+has shown how fragile intellectual property rights of digital material are, but has
+probably affected the business model of the major media players, too. It is an evolution
+because the current state of software engineering makes possible distributed processing
+and storage across personal computers, as well as the first attempts to provide an
+operating system for the Internet. It is a revision because, in the early days of
+the Internet, peer-to-peer is how all computers were interconnected. The rise of the
+Web, with millions of people surfing, engaging in e-commerce, and downloading streaming
+video, made client/server architecture a really good idea. About Groove Groove is
+an application that uses the Internet to make direct connections between members of
+a group. That group can consist offriends, family, co-workers, or any collection of
+people who want to communicate, solve problems, or work on a common task. Some of
+the functions of Groove let you talk, chat, send instant messages, draw pictures,
+share photos and files, play games, and browse the Web with other members of your
+group. With Groove, you communicate within secure, shared virtual spaces, in real-time,
+or in different places at different times. In addition, Groove is a platform that
+allows you to create, deploy, and run your own peer-to-peer applications. At the time
+of this writing, Groove runs only on PCs running the Windows operating system. These
+are the minimum requirements for installing and running Groove: A 233MHz Pentium processor
+or equivalent 64MB of RAM 40MB of available hard disk storage A 56kbps modem (DSL
+or cable modem preferred) Microsoft Internet Explorer 4.0 or greater (IE 5.0 or greater
+recommended) A sound card, speakers, and microphone, for using the voice features
+Updated minimum requirements are posted at www.groove.net/downloads/groove. Who Should
+Read This Book This book is intended for those who want to develop peer-to-peer applications
+in Groove. The skills required to develop Groove applications include an understanding
+of the peer-to-peer paradigm, a working knowledge of extensible Markup Language (XML),
+familiarity with Open Software Description (OSD), and the ability to understand programming
+in JavaScript. Only the programming skill will be assumedthis book will help the reader
+develop the remaining skills. Information on these skills wi presented. The material
+is slanted toward intermediate programmers and advanced beginners but should be useful
+for advanced programmers with little prior knowledge of the peer-to-peer space. How
+the Book Is Structured The following 15 chapters give advanced beginner or intermediate
+programmers all the necessary background needed to understand the peer-to-peer paradigm,
+the Groove application, Groove architecture, XML, and OSD, as well as the ability
+to program and deploy an application on the Groove peer-to-peer platform: Chapter
+1, ""Why Peer-to-Peer "" explores the historical roots of peer-to-peer applications
+and discusses why peer-to-peer will be even more important in the future. Peer-to-peer
+applications are contrasted with client/server applications, highlighting strengths
+and weaknesses for various tasks. Chapter 2, ""What Is Groove "" touches on the history
+of Groovewhy and how it was developed. It describes the product and presents a case
+study of its use to solve an actual business problem. The chapter concludes showing
+why Groove is particularly useful to intermediate programmers or advanced beginners
+wanting to program in the peer-to-peer space. Chapter 3, ""Exploring the Groove Application,""
+exposes you to the Groove application. Detailed instructions for installing the application
+from the CD and a tour of Groove features let readers have the opportunity to experience
+peer-to-peer interaction. You will see and use some Groove tools similar to the ones
+you will soon be building. In Chapter 4, ""Understanding Groove Architecture,"" you
+learn the concept of a shared space and the function of the Groov services that take
+care of security, persistence, and dissemination of data are explored so that you'll
+understand what services Groove provides. Component services are particularly covered
+so that you'll know how versioning and automatic dissemination of Groove toolsincluding
+tools you may buildtakes place. Chapter 5, ""Essential XML,"" presents the basics of
+XML as they relate to Groove operation and tool development. Chapter 6, ""Essential
+OSD,"" explores the concept of Open Software Description. OSD provides an XML-based
+vocabulary for describing software packages and their interdependencies. With OSD,
+Groove provides the means for extending and updating the Groove application, including
+tools like the ones you will develop. Writing OSD is an essential step of tool development
+in Groove. Chapter 7, ""Creating a Groove Development Environment,"" assists you in
+configuring your machines to easily develop Groove tools without affecting their capability
+to use Groove. You will verify that you have the applications you need to program
+Groove tools. All necessary applications are either included in system software or
+freely downloadable from the Net. Next, you'll learn how to reconfigure Groove to
+be able to safely build tools. Finally, we will walk you through the installation
+of the Groove Development Kit (GDK) and explore its contents. Chapter 8, ""Customizing
+Groove,"" gives you the opportunity to create your own Groove skin. Creating a skin
+provides an easy entry into many of the concepts needed to develop Groove tools. In
+Chapter 9, ""Building a Basic Groove Tool,"" a short discussion of the steps and elements
+neede is followed by a step-by-step tutorial. The tutorial begins the creation of
+a peer-to-peer trivia game tool, and addresses User Interface (UI), persistence, and
+dissemination issues. This part requires hand-coding of the XML for both understanding
+and experience. After an exploration of the tool descriptor, OSD, and .GRV files,
+Chapter 10, ""Publishing a Basic Groove Tool,"" is a step-by-step tutorial on publishing
+the tool created in the preceding chapter. Chapter 11, ""Easier Groove: The Tool Creator
+and Tool Publisher,"" introduces two tools supplied by Groove to make creating and
+publishing tools easier. You use these tools to finish the trivia game application.
+Chapter 12, ""Easier Groove: Modifying the Basic Groove Tool with Tool Creator and
+Tool Publisher,"" is a tutorial that uses Tool Creator and Tool Publisher to modify
+and extend the trivia game tool and to republish it. Chapter 13, ""Data Integration
+and Groove Bots,"" is a study of data integration in Groove through connectors and
+Groove bots. Data integration extends the reach of Groove tools by allowing them to
+connect with external information and applications resources. The chapter also covers
+some of the features and capabilities of bots and the Groove Enterprise Integration
+Server. Chapter 14, ""Advanced Topics,"" continues the ongoing discussion of OSD, particularly
+redirection and directory structure strategies, and introduces some of the advanced
+features found in Groove. We explore Groove versioning and its implications for writing
+tools, and then talk about how to add roles and permissions to your tools, and how
+to provide overview and context help. We fin and how they can be used. In Chapter
+15, ""The Future of Peer-to-Peer,"" we make some guesses about how peer-to-peer applications
+will develop in the years to come, and examine the opportunities that will arise for
+peer-to-peer application programmers. If you're ready, let's get started!",2002,,no
+Data-Driven Design: Beyond A/B Testing,"A/B testing has become the de facto standard for optimizing design, helping designers
+craft more effective user experiences by leveraging data. A typical A/B test involves
+dividing user traffic between two experimental conditions (A and B), and looking for
+statistically significant differences in performance indicators (e.g., conversion
+rates) between them. While this technique is popular, there are other, powerful data-driven
+methods --- complementary to A/B testing --- that can tie design choices to desired
+outcomes. Mining data from existing designs can expose designers to a greater space
+of divergent solutions than A/B testing [1,4] ,RICO:2017. Since companies cannot predict
+a priori if the engineering effort for creating alternatives will be commensurate
+with a performance increase, they often test small changes, along gradients to local
+optima. With the millions of websites and mobile apps available today, it is likely
+that almost any UX problem a designer encounters has already been considered and solved
+by someone. The challenges are finding relevant existing solutions, measuring their
+performance, and correlating these metrics with design features. Recent systems that
+capture and aggregate interaction data from third-party Android apps --- with zero
+code integration --- open-source analytics that were previously locked away in each
+app, allowing designers to test and compare UI/UX patterns found in the wild: [2,3]
+2017.Lightweight prototypes with tight user feedback loops, or experimentation engines,
+can bootstrap product design involving technologies that are actively being developed
+(e.g., artificial intelligence, virtual/augmented reality), where both use cases and
+capabilities are not well-understood [5]. These systems afford staged automation:
+initially, ""Wizard of Oz'' techniques can scaffold needfinding, and eventually be
+replaced with automated solutions informed by the collected data. For example, a chatbot
+deployed on social media can serve as an experimentation engine for automating fashion
+advice [7]. At first, a pool of personal stylists can power the chatbot to collect
+organic conversations revealing common fashion problems, effective interaction patterns
+for addressing them, and design considerations for automation. Once technologies are
+developed to scale useful interventions [8,9], the chatbot platform provides a testbed
+for iteratively refining them. Generative models trained on a set of effective design
+examples can support predictive workflows that allow designers to rapidly prototype
+new, performant solutions [6]. Models such as generative adversarial networks and
+variational autoencoders can produce designs based on high-level constraints, or complete
+them given partial specifications. For example, a mobile wireframing tool backed by
+such a model could suggest adding ""username"" and ""password"" input fields to a screen
+with a centrally placed ""login"" button.",2019,https://dx.doi.org/10.1145/3295750.3300046,no
+Preface,"The field of multimedia is dedicated to research and studies that leverage multiple
+modalities of signals and data in developing intelligent systems and technologies.
+Be it search engine, recommendation system, streaming service, interactive agent,
+or collaborative system, multimedia plays a critical role in ensuring full understanding
+of multimodal sensory signals, robust modeling of user-content interaction, natural
+and rich communication experience, and scalable system deployment. The goal is to
+utilize unique contributions from each modality, integrate complementary synergies,
+and achieve the best performance and novel functions beyond what's separately available
+in each individual medium. In this community, most contributors also maintain strong
+activities in other disciplines such as networking, computer vision, human-computer
+interaction, and machine learning. But the field of multimedia is unique in offering
+a rich and dynamic forum for researchers from ""traditional"" fields to collaborate
+and develop new solutions and knowledge that transcend the boundaries of individual
+disciplines.The field enjoys a long history of vibrant research. For example, the
+flagship ACM SIGMM Multimedia Conference was established in 1993, celebrating its
+25th anniversary this year. The community also has several well-known conferences
+and journals organized by ACM, IEEE, and other groups, attracting a large number of
+researchers and practitioners from around the world. However, despite the prolific
+research activities and outcomes, there has been less effort toward developing books
+that serve as an introduction to the rich spectrum of topics in this broad field.
+Most of the few books available today either focus on specific subfields or basic
+background. There is a lack of tutorial-style materials covering the active topics
+being pursued by the leading researchers at frontiers of the field.SIGMM launched
+a new initiative to address this need in 2015, by selecting and inviting 12 rising-star
+speakers from different subfields of multimedia to deliver plenary tutorial style
+talks at ACM Multimedia 2015. Each speaker discussed challenges and the state of the
+art within their prospective research areas in a general manner to the broad community.
+Topics covered were comprehensive, including multimedia content understanding, multimodal
+human-human and human-computer interaction, multimedia social media, and multimedia
+system architecture and deployment. Following the very positive responses to the talks,
+these rising-star speakers were invited to expand the content covered in their talks
+to chapters that can be used as reference materials for researchers, students, and
+practitioners. Each resulting chapter discusses problems, technical challenges, state-of-the-art
+approaches and performances, open issues, and promising directions for future work.
+Collectively, the chapters provide an excellent sampling of major topics addressed
+by the community as a whole. This book, capturing outcomes of such efforts, is well
+positioned to fill the aforementioned needs by providing tutorial-style reference
+materials for frontier topics of multimedia.Section 1 of the book includes five chapters
+that are focused on analysis and understanding of multimedia content. Topics covered
+range from analysis of video content, audio content, multimodal content about interaction
+of freestanding conversational groups, and analysis of multimedia data in the encrypted
+format for preserving privacy on cloud servers, to efficient approximate similarity
+search techniques for searching over large-scale databases.First, Zuxuan Wu et al.
+review current research on understanding video content by detecting the classes of
+actions or events contained in a given video clip and generation of full-sentence
+captions describing the content in each such video. Unlike previous surveys, this
+review focuses on solutions based on deep learning, reflecting the recent trend of
+research in this area. The chapter also gives extensive reviews of the datasets used
+in state-of-the-art research and benchmarking efforts.Extending the modality from
+video to audio, in Chapter 2, Gerald Friedland et al. introduce the field of computer
+audition, aiming to develop the theory behind artificial systems that can extract
+information from sound. This chapter reviews the research datasets available, appropriate
+representations needed for audio, and a few challenging problems such as automatic
+extraction of hierarchical semantic structures from audio content and automatic discovery
+of high-level semantic concepts from massive audio data and associated metadata.The
+holy grail of research for the multimedia community is to be able to integrate and
+fuse information extracted from multiple modalities of data. In Chapter 3, Xavier
+Alameda-Pineda et al. present an excellent example and emergent research challenges
+in the application of detecting social interaction among freestanding conversational
+groups. The chapter includes overviews of research issues, approaches, evaluation
+of joint estimation of head and body poses using multiPreface modality data (such
+as wearable sensors and distributed camera networks), and results of detecting dynamic
+group formation of interacting people.Chapter 4 addresses a novel emerging topic prompted
+by the popular approach to multimedia analysis using cloud computing servers. When
+multimedia data is sent to the cloud for storage or processing, there is a risk of
+privacy breach via unauthorized access by third parties to the content in the cloud.
+Pradeep Atrey et al. review state-of-the-art methods and open issues for processing
+multimedia content in the encrypted domain without needing to convert data to the
+original format. This allows content to stay in its protected form while useful analysis
+is performed on it.In Chapter 5, Herv\'{e}e Jeundefinedou surveys efficient techniques for finding
+approximate solutions for similarity search, which is of particular interest when
+searching massive multimedia data like images, videos, and audio recordings. Jeundefinedou
+considers various performance factors like query speed, memory requirement, and search
+accuracy. Multiple frameworks based on locality sensitive hashing (LSH), quantization/
+compression, and hybrid combinations are also reviewed in a coherent manner.In Section
+2 of the book, the emphasis shifts from content analysis to humancentered aspects
+of multimedia computing. This new focus goes beyond extraction of semantic information
+from multimedia data. Instead, the broad research scope incorporates understanding
+of users and user-content interaction so as to improve effectiveness of multimedia
+systems in many applications, such as search and recommendation.Under the human-centric
+theme, Chapter 6, authored by Peng Cui, discusses the evolution of multimedia computing
+paradigms from the data-centric, to the content-centric, and recently to the human-centric.
+Cui presents a new framework, called social-sensed multimedia computing, to capture
+many key issues involved and advances achieved, including understanding of user-content
+interaction behavior, understanding of user intent, multimedia representation considering
+user intention, and integration of heterogeneous data sensed on multimedia social
+networks.Chapter 7 follows the human-centric theme and further moves the focus from
+processing individual multimedia data streams to processing a large number of heterogeneous
+streams in different modalities involving a large number of people. Analysis of such
+massive streams offers the possibility of detecting important situations of society,
+such as socio-economic affairs, as well as the living environment. Vivek Singh provides
+an overview of the problem definition, research framework, and the EventShop toolkit
+he developed for application development in this emerging area.The extension to the
+human-centric computing paradigm also calls for formal mathematical theories and tools
+for explaining the phenomena observed, such as the information propagation behaviors
+and the occurrences of information cascades on social networks. In Chapter 8, Marian-Andrei
+Rizoiu et al. review stochastic processes such as the Hawkes point process for modeling
+discrete, interdependent events over continuous time. These are strongly related to
+patterns corresponding to retweet cascade events on social media. Successful models
+like these can help researchers understand information dissemination patterns and
+predict popularity on social media.Interaction between users and content reveals not
+only the intent of the user (covered in Chapter 6), but also attributes of the content
+as well as of the user him/herself. Such interaction can be manifested in multiple
+forms including explicit cues such as visual and verbal expressions, and implicit
+cues such as eye movement and physiological signals like brain activity and heart
+rate. Chapter 9 includes a survey by Subramanian Ramanathan et al. on how such implicit
+user interaction cues can be explored to improve analysis of content (scene understanding)
+and user (user emotion recognition).To support research and development of emerging
+multimedia topics discussed above, there is a critical need for new generations of
+communication and computing systems that take into account the unique requirements
+of multimedia, such as real-time, high bandwidth, distributiveness, major power consumption,
+and resource uncertainty. The popular cloud-based computing systems, though prevalent
+formanyapplications, are not suitable for large-scale multimedia applications such
+as cloud-based gaming service and animation rendering service.The last section of
+the book focuses on the systems aspect, covering distinct topics of multimedia fog
+computing (Chapter 10) and cloud gaming (Chapter 11). Cheng-Hsin Hsu et al. survey
+the emerging paradigm focused on fog computing, in which computing services are crowdsourced
+to the edge nodes or even to the client devices on the user end. This offers major
+potential benefits in terms of low latency, location awareness, scalability, and heterogeneity.
+However, it also poses many significant challenges in areas such as resource discovery,
+resource allocation and management, quality of service, and security. Discussion of
+these challenges, along with recent advances in this area, are presented in Chapter
+10.Finally, as a concrete example of large-scale distributed multimedia computing
+systems, Chapter 11 (by Kuan-Ta Chen et al.) presents a comprehensive survey of cloud
+gaming, with emphasis on the development of platform and testbed, test scenarios,
+and evaluation of performance, in order to enhance optimal design of various components
+of the complex cloud gaming systems. In particular, the chapter overviews extensive
+research in areas such as open-source platforms, cloud deployment, client design,
+and communication between gaming servers and clients.The scope of this book is by
+no means exhaustive or complete. For example, it can be expanded to include other
+important topics such as (but not limited to) multimedia content generation, multimodal
+knowledge discovery and representation, multimedia immersive networked environments,
+and applications in areas like healthcare, learning, and infrastructure. Nonetheless,
+the comprehensive survey materials already covered in the book provide an excellent
+foundation for exploring additional topics mentioned above, and many other relevant
+fields.We would like to give sincere acknowledgment to Dr. Svebor Karaman, who has
+provided tremendous assistance in communicating with contributors and organizing the
+content of this book. In addition, Diane Cerra and her team at Morgan &amp; Claypool Publishers
+have provided valuable guidance and editorial help",2017,https://doi.org/10.1145/3122865.3122866,no

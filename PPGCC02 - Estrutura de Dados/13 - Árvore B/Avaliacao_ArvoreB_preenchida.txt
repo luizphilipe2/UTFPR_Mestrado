@@ -1,0 +1,57 @@
+-----------
+Alexandre 
+Nota: 88/100
+Comentários: 
+Para o exercício 3, estamos considerando como corretas duas abordagens. 
+	A primeira é onde consideramos que o primeiro nível da árvore (raiz) já está em memória. Desta forma os acessos seriam respectivamente nas letras a, b e c: 1 0 1
+	A segunda, é onde consideramos que o primeiro nível precisa ser carregado em memória (ex: abertura de um programa), desta forma os acessos seriam respectivamente nas letras a, b e c: 2 1 2.
+
+Desta forma, a letra B do exercício 3, ficaria incorreta.
+
+-----------
+Andrei
+Nota: 22/100
+Comentários: 
+A ordem da árvore está incorreta, portanto os exercícios 1 e 2 não estão apresentando a árvore esperada (de ordem 5).
+No entanto, considerando a árvore apresentada (ordem 3), os acessos em disco para a busca das chaves 11 e 14 (exercício 3, letras A e B) estão corretas considerando que a raiz não está em memória. 
+O exercício 3, letra C, não conseguimos entender o valor 3. (A resposta correta seria 2, levando em consideração a árvore inserida no exercício 1 e a parte do carregamento da memória).
+
+-----------
+Daniel
+Nota: 100/100
+Comentários: 
+Para o exercício 3, estamos considerando como corretas duas abordagens. 
+	A primeira é onde consideramos que o primeiro nível da árvore (raiz) já está em memória. Desta forma os acessos seriam respectivamente nas letras a, b e c: 1 0 1
+	A segunda, é onde consideramos que o primeiro nível precisa ser carregado em memória (ex: abertura de um programa), desta forma os acessos seriam respectivamente nas letras a, b e c: 2 1 2.
+
+-----------
+Hugo
+Nota: 100/100
+Comentários:
+
+-----------
+Luiz
+Nota: 100/100
+Comentários:
+
+-----------
+Marcelo
+Nota: 100/100
+Comentários:
+
+-----------
+Mariana
+Nota: 100/100
+Comentários:
+
+-----------
+Thiago
+Nota: 100/100
+Comentários: Parabéns por ter feito o passo a passo!!!
+
+Para o exercício 3, estamos considerando como corretas duas abordagens. 
+	A primeira é onde consideramos que o primeiro nível da árvore (raiz) já está em memória. Desta forma os acessos seriam respectivamente nas letras a, b e c: 1 0 1
+	A segunda, é onde consideramos que o primeiro nível precisa ser carregado em memória (ex: abertura de um programa), desta forma os acessos seriam respectivamente nas letras a, b e c: 2 1 2.
+
+
+
